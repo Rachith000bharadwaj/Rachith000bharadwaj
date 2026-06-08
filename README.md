@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rachith Bharadwaj T N</h1>
-<h3 align="center">Data Science & Artificial Intelligence Undergraduate | AI/ML | Deep Learning | Big Data | Full Stack</h3>
+<h3 align="center">Data Science & Artificial Intelligence | AI/ML | Deep Learning | Big Data | Graph analytics</h3>
 
 <p align="center">
   <a href="mailto:rachith12345bharadwaj@gmail.com">Email</a> •
