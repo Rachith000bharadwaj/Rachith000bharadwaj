@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Rachith Bharadwaj T N</h1>
 <h3 align="center">Data Science & Artificial Intelligence | AI/ML | Deep Learning | Big Data | Graph analytics</h3>
